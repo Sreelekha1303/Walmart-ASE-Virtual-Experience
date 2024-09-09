@@ -32,3 +32,7 @@ TASK 4 : Data Munging
   Populate a database with a large quantity of data in disparate formats.
 ```
 - Practical skills gained: `Python` `SQL` `Data Munging`
+
+  ---
+#### Certificate of Completion
+![Cert](./Sreelekha_Walmart.png)
